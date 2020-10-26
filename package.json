@@ -1,5 +1,5 @@
 {
-    "name": "mapnik-vector-tile",
+    "name": "@naturalatlas/mapnik-vector-tile",
     "version": "3.0.1",
     "description": "Mapnik Vector Tile API",
     "main": "include_dirs.js",
