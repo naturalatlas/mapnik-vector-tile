@@ -1,7 +1,7 @@
 #pragma once
 
 // mapnik
-//#include <mapnik/geometry/box2d.hpp>
+//#include <mapnik/box2d.hpp>
 #include <mapnik/datasource.hpp>
 #include <mapnik/util/variant.hpp>
 

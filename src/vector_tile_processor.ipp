@@ -8,7 +8,7 @@
 #include "vector_tile_layer.hpp"
 
 // mapnik
-#include <mapnik/geometry/box2d.hpp>
+#include <mapnik/box2d.hpp>
 #include <mapnik/datasource.hpp>
 #include <mapnik/feature.hpp>
 #include <mapnik/image_scaling.hpp>

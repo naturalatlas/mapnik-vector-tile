@@ -2,7 +2,7 @@
 #include "vector_tile_geometry_decoder.hpp"
 
 // mapnik
-#include <mapnik/geometry/box2d.hpp>
+#include <mapnik/box2d.hpp>
 #include <mapnik/feature_factory.hpp>
 #include <mapnik/geometry.hpp>
 #include <mapnik/image.hpp>

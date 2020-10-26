@@ -5,7 +5,7 @@
 #include "vector_tile_config.hpp"
 
 // mapnik
-#include <mapnik/geometry/box2d.hpp>
+#include <mapnik/box2d.hpp>
 #include <mapnik/well_known_srs.hpp>
 
 namespace mapnik

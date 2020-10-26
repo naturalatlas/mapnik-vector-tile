@@ -13,7 +13,7 @@
 #include <fstream>
 
 // mapnik
-#include <mapnik/geometry/box2d.hpp>
+#include <mapnik/box2d.hpp>
 #include <mapnik/datasource_cache.hpp>
 #include <mapnik/global.hpp>
 #include <mapnik/well_known_srs.hpp>

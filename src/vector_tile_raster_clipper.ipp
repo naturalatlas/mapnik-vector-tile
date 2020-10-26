@@ -1,5 +1,5 @@
 // mapnik
-#include <mapnik/geometry/box2d.hpp>
+#include <mapnik/box2d.hpp>
 #include <mapnik/image.hpp>
 #include <mapnik/image_any.hpp>
 #include <mapnik/image_scaling.hpp>

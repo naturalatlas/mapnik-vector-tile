@@ -7,7 +7,7 @@
 #include <protozero/pbf_reader.hpp>
 
 //mapnik
-#include <mapnik/geometry/box2d.hpp>
+#include <mapnik/box2d.hpp>
 #include <mapnik/geometry.hpp>
 #if defined(DEBUG)
 #include <mapnik/debug.hpp>
